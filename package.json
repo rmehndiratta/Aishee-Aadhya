@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ayusharma/birthday.git"
+    "url": "git+https://github.com/aishee-kanika/birthday.git"
   },
   "keywords": [
     "Birthday"
@@ -16,9 +16,9 @@
   "author": "Rajesh Mehndiratta",
   "license": "WTFPL",
   "bugs": {
-    "url": "https://github.com/ayusharma/birthday/issues"
+    "url": "https://github.com/aishee-kanika/birthday/issues"
   },
-  "homepage": "https://github.com/ayusharma/birthday#readme",
+  "homepage": "https://github.com/aishee-kanika/birthday#readme",
   "dependencies": {
     "http-server": "^0.11.1"
   }
